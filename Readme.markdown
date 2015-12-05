@@ -170,7 +170,7 @@ the source, but here's the contents for convenience:
 
 	# example config file for safe browsing server
 	address = "0.0.0.0:8080"
-	googleApiKey = ""
+	googleApiKey = " "
 	dataDir = "/tmp/safe-browsing-data"
 	# enable example usage page at /form
 	enableFormPage = true
